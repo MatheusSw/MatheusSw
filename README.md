@@ -5,18 +5,22 @@ I'm now learning Laravel (consequently Blade and Mix too) together with HTML5/Ja
 
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSw&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+## Technologies I know 🤖
+Back-end development with Laravel 
+Front-end development with Laravel Mix, Bootstrap, HTML5/CSS5, TailwindCSS and some knowledge on React.
+
 ## 🌱 New technologies I have a interest in
 - Clojure
 - React
 - Machine Learning with TensorFlow! (Boy do I love ML)
 - Cloud development
 
-## Currently learning 🤔:
+## Currently learning 🤔
 - React.js
 - Clojure
 - LSTM's and GRU layers
 
-## Currently improving 🤓:
+## Currently improving 🤓
 - Learning new ML models
 - React and Laravel skills
 - Always learning new architectures
