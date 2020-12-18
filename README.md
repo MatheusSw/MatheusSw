@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hey-o! 👋
 
-<!--
-**MatheusSw/MatheusSw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Matheus, I'm currently (and hopefully will always be) 22 years old and I'm a hands-on, software engineer with industry experience developing desktop applications. I have comprehensive knowledge about Agile Methodologies and programming architectures. I once was a Desktop application lover, but boy-oh-boy the web development environment got me good!\
+I'm now learning Laravel (consequently Blade and Mix too) together with HTML5/Javascript ES6+, and also Tailwindcss and Sass.
 
-Here are some ideas to get you started:
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSw&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 New technologies I have a interest in
+- Clojure
+- React
+- Machine Learning with TensorFlow! (Boy do I love ML)
+- Cloud development
+
+## Currently learning 🤔:
+- React.js
+- Clojure
+- LSTM's and GRU layers
+
+## Currently improving 🤓:
+- Learning new ML models
+- React and Laravel skills
+- Always learning new architectures
+
+## 📫 How to reach me:
+[E-mail](mailto:matheussouzaneg@gmail.com)\
+[LinkedIn](https://www.linkedin.com/in/matheussouzacs/)\
+[Dribble](https://dribbble.com/MatheusSw)
+
