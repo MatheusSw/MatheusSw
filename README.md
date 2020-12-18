@@ -9,7 +9,7 @@ I'm now learning Laravel (consequently Blade and Mix too) together with HTML5/Ja
 Back-end development with Laravel 
 Front-end development with Laravel Mix, Bootstrap, HTML5/CSS5, TailwindCSS and some knowledge on React.
 
-## 🌱 New technologies I have a interest in
+## New technologies I have a interest in🌱
 - Clojure
 - React
 - Machine Learning with TensorFlow! (Boy do I love ML)
