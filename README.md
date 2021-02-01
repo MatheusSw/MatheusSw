@@ -11,14 +11,13 @@ Front-end development with Laravel Mix, Bootstrap, HTML5/CSS5, TailwindCSS and R
 
 ## New technologies I have a interest in🌱
 - Clojure
-- React
 - Machine Learning with TensorFlow! (Boy do I love ML)
 - Cloud development
 
 ## Currently learning 🤔
-- React
 - Clojure
 - LSTM's and GRU layers
+- Typescript
 
 ## Currently improving 🤓
 - Learning new ML models
