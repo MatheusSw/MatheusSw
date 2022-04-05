@@ -1,6 +1,6 @@
 # Hey-o! 👋
 
-I'm Matheus, I'm currently (and hopefully will always be) 22 years old and I'm a hands-on, software engineer with industry experience developing desktop applications. I have comprehensive knowledge about Agile Methodologies and programming architectures. I once was a Desktop application lover, but boy-oh-boy the web development environment got me good! But I still have thorough knowledge of .NET and .NET Core.
+I'm Matheus, I'm currently (and hopefully will always be) 23 years old and I'm a hands-on, software engineer with industry experience developing desktop applications. I have comprehensive knowledge about Agile Methodologies and programming architectures. I once was a Desktop application lover, but boy-oh-boy the web development environment got me good! But I still have thorough knowledge of .NET and .NET Core.
 
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSw&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -30,7 +30,7 @@ This one is pretty straight forward, it's an attempt to make an AI that recogniz
 Tensorflow and Python and the Fruits-360 Dataset, I learned a lot with this project, like how LSTM and GRU layers work.
 
 ## Skill set 🤖
-##### _This is a quick overview, please refer to my curriculum for further technologies.
+###### _This is a quick overview, please refer to my curriculum for further technologies._
 - **Back-end**\
 .NET and .NET Core - 4 years experience\
 Laravel - 1 year experience\
