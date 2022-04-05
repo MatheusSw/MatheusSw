@@ -24,10 +24,27 @@ Ticketier goal is to make handling support tickets something easy. I found that 
 - **On the back end**, just Laravel with Blade, using MySql as the database.
 - **On the front end**, React with tailwindcss.
 ### [Fruit recognizer](https://github.com/MatheusSw/Fruit-Recognizer)
+##### Description
+This one is pretty straight forward, it's an attempt to make an AI that recognizes fruits! The repository README speaks for itself.
+##### Technologies used
+Tensorflow and Python and the Fruits-360 Dataset, I learned a lot with this project, like how LSTM and GRU layers work.
 
 ## Skill set 🤖
-Back-end development with Laravel and ASP.NET\
-Front-end development with Laravel Mix, Bootstrap, HTML5/CSS5, TailwindCSS and React.
+##### _This is a quick overview, please refer to my curriculum for further technologies.
+- **Back-end**\
+.NET and .NET Core - 4 years experience\
+Laravel - 1 year experience\
+AWS - 1 year experience\
+Posgres - < 1 year experience
+
+- **Front-end**\
+React - 2 years experience\
+Tailwindcss - 2 years experience\
+Redux - < 1 year experience
+
+- **Misc**
+Splunk - Expert\
+AWS - New (however I'm really excited to use it)
 
 ## 📫 How to reach me:
 [E-mail](mailto:matheussouzaneg@gmail.com)\
