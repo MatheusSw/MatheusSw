@@ -1,32 +1,34 @@
 # Hey-o! 👋
 
-I'm Matheus, I'm currently (and hopefully will always be) 22 years old and I'm a hands-on, software engineer with industry experience developing desktop applications. I have comprehensive knowledge about Agile Methodologies and programming architectures. I once was a Desktop application lover, but boy-oh-boy the web development environment got me good! But I still have thorough knowledge of .NET and .NET Core\
-I'm now learning Laravel (consequently PHP and Mix too) together with HTML5, Javascript ES6+, React, and also Tailwindcss and Sass.
+I'm Matheus, I'm currently (and hopefully will always be) 22 years old and I'm a hands-on, software engineer with industry experience developing desktop applications. I have comprehensive knowledge about Agile Methodologies and programming architectures. I once was a Desktop application lover, but boy-oh-boy the web development environment got me good! But I still have thorough knowledge of .NET and .NET Core.
 
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSw&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-## Technologies I know 🤖
+## Projects
+### [Apollo Fm](https://apollofm.net/)
+##### [Project](https://github.com/MatheusSw/apollo-fm-frontend)
+###### _Work in progress_
+##### Description
+Apollo Fm is a plataform where you can connect your Last.fm (and in the future spotify account), generate reports based on your music taste and share them with your twitter followers.
+
+##### Technologies used
+- **On the back end**, I had the chance to build a serverless infraestructure with AWS Lambda, Route53 for the hosting, System Manager for secret storing (both encrypted and unencrypted), and RDS with MySql as the database. I'm really happy with this as I had the chance to really understand a lot more about AWS, even though I haven't used all of its resources.  
+- **On the front end**, I got the chance to use React, React Rematch for my Redux store, and Tailwindcss for all my css. I got the chance to learn a lot about Redux and finally felt comfortable while working with responsive design and how to properly lay-out my components.
+
+### [Ticketier](https://github.com/MatheusSw/Ticketier)
+###### _This project was dropped due to lack of time_
+##### Description
+Ticketier goal is to make handling support tickets something easy. I found that in my previous work experiencies we always had an internal ticket handling system and they were always either super slow or untuitive, so Ticketier goal was to offer a more modern experience to that.
+
+##### Technologies used
+- **On the back end**, just Laravel with Blade, using MySql as the database.
+- **On the front end**, React with tailwindcss.
+### [Fruit recognizer](https://github.com/MatheusSw/Fruit-Recognizer)
+
+## Skill set 🤖
 Back-end development with Laravel and ASP.NET\
 Front-end development with Laravel Mix, Bootstrap, HTML5/CSS5, TailwindCSS and React.
-
-## New technologies I have a interest in🌱
-- AWS
-- Machine Learning with TensorFlow! (Boy do I love ML)
-- Queues (Mainly RabbitMQ)
-- Redis
-
-## Currently learning 🤔
-- AWS
-- RabbitMQ
-- LSTM's and GRU layers
-
-## Currently improving 🤓
-- Learning new ML models
-- React 
-- Always learning new architectures
 
 ## 📫 How to reach me:
 [E-mail](mailto:matheussouzaneg@gmail.com)\
 [LinkedIn](https://www.linkedin.com/in/matheussouzacs/)\
-[Dribble](https://dribbble.com/MatheusSw)
-
