@@ -4,7 +4,7 @@ I'm Matheus, I'm currently (and hopefully will always be) 23 years old and I'm a
 
 ## Projects
 ### [Apollo Fm](https://apollofm.net/)
-##### [Project](https://github.com/MatheusSw/apollo-fm-frontend)
+##### [Repository](https://github.com/MatheusSw/apollo-fm-frontend)
 ###### _Work in progress_
 ##### Description
 Apollo Fm is a plataform where you can connect your Last.fm (and in the future spotify account), generate reports based on your music taste and share them with your twitter followers.
@@ -30,20 +30,21 @@ Tensorflow and Python and the Fruits-360 Dataset, I learned a lot with this proj
 ## Skill set 🤖
 ###### _This is a quick overview, please refer to my curriculum for further technologies._
 - **Back-end**\
-.NET and .NET Core - 4 years experience\
-Laravel - 1 year experience\
-AWS - 1 year experience\
-Posgres - < 1 year experience
+**.NET and .NET Core** - 4 years experience\
+**Laravel** - 1 year experience\
+**AWS** - 1 year experience\
+**Posgres** - < 1 year experience
 
 - **Front-end**\
-React - 2 years experience\
-Tailwindcss - 2 years experience\
-Redux - < 1 year experience
+**React** - 2 years experience\
+**Tailwindcss** - 2 years experience\
+**Redux** - < 1 year experience
 
-- **Misc**
-Splunk - Expert\
-AWS - New (however I'm really excited to use it)
+- **Misc**\
+**Splunk** - Advanced\
+**AWS** - New (however I'm really excited to use it)\
+**SRE** - Experience with building dashboards on graphana, instrumenting metrics with Prometheus and alerting.
 
 ## 📫 How to reach me:
 [E-mail](mailto:matheussouzaneg@gmail.com)\
-[LinkedIn](https://www.linkedin.com/in/matheussouzacs/)\
+[LinkedIn](https://www.linkedin.com/in/matheussouzacs/)
