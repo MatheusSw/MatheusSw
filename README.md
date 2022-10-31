@@ -4,7 +4,7 @@ I'm Matheus, I'm currently (and hopefully will always be) 23 years old and I'm a
 
 ## Projects
 ### Haze
-##### [Repository](https://github.com/MatheusSw/haze-front-end)
+##### [Front-end](https://github.com/MatheusSw/haze-front-end) - [Back-end](https://github.com/MatheusSw/haze-monitoring)
 ###### _Work in progress_
 ##### Description
 Haze is a plataform where you can manage and monitor your plant's environment, like temperature, humidity, and more.
