@@ -43,7 +43,7 @@ Tensorflow and Python and the Fruits-360 Dataset, I learned a lot with this proj
 **.NET and .NET Core** - 4 years experience\
 **Laravel** - 1 year experience\
 **AWS** - 1 year experience\
-**Posgres** - < 1 year experience
+**PostgreSQL** - < 1 year experience
 
 - **Front-end**\
 **React** - 2 years experience\
@@ -53,7 +53,7 @@ Tensorflow and Python and the Fruits-360 Dataset, I learned a lot with this proj
 - **Misc**\
 **Splunk** - Advanced\
 **AWS** - New (however I'm really excited to use it)\
-**SRE** - Experience with building dashboards on graphana, instrumenting metrics with Prometheus and alerting.
+**SRE** - Experience with building dashboards on grafana, instrumenting metrics with Prometheus and alerting.
 
 ## 📫 How to reach me:
 [E-mail](mailto:matheussouzaneg@gmail.com)\
