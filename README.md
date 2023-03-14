@@ -13,7 +13,7 @@ Haze is a plataform where you can manage and monitor your plant's environment, l
 - **Back end**, I had the chance to build a serverless infraestructure with AWS Lambda, DynamoDb, Api Gateway, SNS and an ESP32 for environment monitoring (temperature and humidity). I learned A LOT about DynamoDb and designed my own "schema" by defining my access patterns and analyzing my needs, also learned about how powerful and useful SNS can be.
 - **On the front end**, the usual React with tailwindcss, and react router.
 
-### [Apollo Fm](https://apollofm.net/)
+### Apollo Fm
 ##### [Repository](https://github.com/MatheusSw/apollo-fm-frontend)
 ###### _Work in progress_
 ##### Description
