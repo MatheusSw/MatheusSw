@@ -39,18 +39,19 @@ Tensorflow and Python and the Fruits-360 Dataset, I learned a lot with this proj
 
 ## Skill set 🤖
 ###### _This is a quick overview, please refer to my curriculum for further technologies._
-- **Back-end**\
+
+## **Back-end**
 **.NET and .NET Core** - 5 years experience\
 **C++** - 1 year experience\
 **AWS** - 2 year experience\
 **PostgreSQL** - < 1 year experience
 
-- **Front-end**\
+## **Front-end**
 **React** - 3 years experience\
 **Tailwindcss** - 3 years experience\
 **Redux** - < 1 year experience
 
-- **Misc**\
+## **Misc**
 **Splunk** - Advanced\
 **AWS** - New (however I'm really excited to use it)\
 **SRE** - Experience with building dashboards on grafana, instrumenting metrics with Prometheus and alerting.
