@@ -1,6 +1,6 @@
 # Hey-o! 👋
 
-I'm Matheus, I'm currently (and hopefully will always be) 23 years old and I'm a hands-on, software engineer with industry experience developing desktop applications. I have comprehensive knowledge about Agile Methodologies and programming architectures. I once was a Desktop application lover, but boy-oh-boy the web development environment got me good! But I still have thorough knowledge of .NET and .NET Core.
+I'm Matheus, I'm currently 26 years old and I'm a hands-on, software engineer with industry experience developing desktop applications. I have comprehensive knowledge about Agile Methodologies and programming architectures. I once was a Desktop application lover, but boy-oh-boy the web development environment got me good! But I still have thorough knowledge of .NET and .NET Core.
 
 ## Projects
 ### Haze
@@ -40,14 +40,14 @@ Tensorflow and Python and the Fruits-360 Dataset, I learned a lot with this proj
 ## Skill set 🤖
 ###### _This is a quick overview, please refer to my curriculum for further technologies._
 - **Back-end**\
-**.NET and .NET Core** - 4 years experience\
-**Laravel** - 1 year experience\
-**AWS** - 1 year experience\
+**.NET and .NET Core** - 5 years experience\
+**C++** - 1 year experience\
+**AWS** - 2 year experience\
 **PostgreSQL** - < 1 year experience
 
 - **Front-end**\
-**React** - 2 years experience\
-**Tailwindcss** - 2 years experience\
+**React** - 3 years experience\
+**Tailwindcss** - 3 years experience\
 **Redux** - < 1 year experience
 
 - **Misc**\
