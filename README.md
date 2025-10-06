@@ -2,7 +2,7 @@
 
 I'm currently 26 years old and I'm a hands-on software engineer with industry experience developing desktop applications. I have comprehensive knowledge about Agile Methodologies and programming architectures. I once was a Desktop application lover, but boy-oh-boy the web development environment got me good! But I still have thorough knowledge of .NET and .NET Core.
 
-# 🚀 Projects
+## 🚀 Projects
 ## [Nauru](https://github.com/MatheusSw/nauru)
 
 #### Description
